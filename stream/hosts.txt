@@ -1,0 +1,19 @@
+127.0.0.1	localhost
+127.0.1.1	ThinkPad-X1-Carbon
+
+127.0.0.1	wordpress.local
+127.0.0.1	oop.local
+127.0.0.1	test.local
+127.0.0.1	rfid-interface-demo.local
+172.17.0.5	rfid-api.com
+54.72.240.5	ink-status-checker.mlgdev.com
+127.0.0.1	bolt.local
+127.0.0.1	modern-php.local
+172.17.0.4	www.predictopus.local
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
